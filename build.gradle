@@ -24,7 +24,7 @@ repositories {
 }
 
 dependencies {
-    api 'org.springframework:spring-webmvc:4.2.3.RELEASE'
+    api 'org.springframework:spring-webmvc:4.2.5.RELEASE'
     api 'org.springframework:spring-jdbc:4.2.3.RELEASE'
     api 'org.springframework:spring-web:4.2.3.RELEASE'
     api 'javax.servlet:jstl:1.2'

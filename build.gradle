@@ -26,7 +26,7 @@ repositories {
 dependencies {
     api 'org.springframework:spring-webmvc:4.2.3.RELEASE'
     api 'org.springframework:spring-jdbc:4.2.3.RELEASE'
-    api 'org.springframework:spring-web:4.2.3.RELEASE'
+    api 'org.springframework:spring-web:4.2.5.RELEASE'
     api 'javax.servlet:jstl:1.2'
     api 'javax.validation:validation-api:1.0.0.GA'
     api 'org.hibernate:hibernate-core:5.3.0.Final'
